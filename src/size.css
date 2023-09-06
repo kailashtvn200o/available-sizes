@@ -95,36 +95,62 @@
     margin-left: 35%;
     margin-top: 2%;
 }
+.black{
+    background-color: black;
+    color: white;
+    height: 55px;
+    border-radius: 14px;
+    width: 55px;
+}
 .rectangletxt1{
     
-    font-size: 26px;
+    font-size: 36px;
     margin-left: 29px;
-    color: black;
+    /* color: black; */
     border: 0px solid black;
     font-weight: 400;
     box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
-    border-radius: 3px;
+    border-radius: 15px;
+    background-color:white;
+    color: black; 
     /* margin-top: 40px; */
-    width: 37px;
+    width: 55px;
+    height: 55px;
     text-align: center;
 }
 
 .rectangletxt2{
     
-    font-size: 26px;
-    margin-left: 14px;
-    color: black;
-    margin-top: 2px;
-    border: 1px solid black;
+    font-size: 36px;
+    margin-left: 29px;
+    /* color: black; */
+    border: 0px solid black;
+    font-weight: 400;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+    border-radius: 15px;
+    background-color: white;
+    color: black; 
+    /* margin-top: 40px; */
+    width: 55px;
+    height: 55px;
+    text-align: center;
 }
 
 .rectangletxt3{
 
-    font-size: 26px;
-    margin-left: 19px;
-    color: black;
-    margin-top: 2px;
-    border: 1px solid black;
+    font-size: 36px;
+    margin-left: 29px;
+    /* color: black; */
+    border: 0px solid black;
+    font-weight: 400;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+    border-radius: 15px;
+    background-color: white;
+    color:black; 
+    /* margin-top: 40px; */
+    width: 55px;
+    height: 55px;
+    text-align: center;
 }
 .text{
   
@@ -138,6 +164,17 @@
 }
 .page{
     height: 100vh;
+}
+.sizetxt{
+    width: 17%;
+    color: gray;
+    font-size: 31px;
+    margin-left: 195px;
+    margin-top: 115px;
+}
+.chart{
+    margin-left: 32%;
+    margin-top: 3%;
 }
 @media(max-width:600px){
     .centertxt3{
