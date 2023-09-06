@@ -177,6 +177,18 @@
     margin-top: 3%;
 }
 @media(max-width:600px){
+    .sizetxt{
+        width: 37%;
+        color: gray;
+        font-size: 26px;
+        margin-left: 29px;
+        margin-top: 63px;
+    }
+    .chart{
+        margin-left: 1%;
+        margin-top: 3%;
+        width: 385px;
+    }
     .centertxt3{
         text-align: center;
         font-weight: 700;
@@ -187,6 +199,7 @@
         font-size: 31px;
         margin-left: 33px;
         margin-top: 74px;
+        width: 215px;
     }
     .standardButton{
         width: 160px;
@@ -237,7 +250,7 @@
         /* justify-content: flex-start; */
         display: flex;
         width: 277px;
-        height: 133px;
+        height: 108px;
         border: 0px solid black;
         box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
         border-radius: 30px;
@@ -268,36 +281,62 @@
         margin-left: 7%;
         margin-top: 10%;
     }
+    .black{
+        background-color: black;
+        color: white;
+        height: 55px;
+        border-radius: 14px;
+        width: 55px;
+    }
     .rectangletxt1{
         
-        font-size: 26px;
-        margin-left: 29px;
-        color: black;
+        font-size: 36px;
+        margin-left: -7px;
+        /* color: black; */
         border: 0px solid black;
         font-weight: 400;
         box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
-        border-radius: 3px;
+        border-radius: 15px;
+        background-color:white;
+        color: black; 
         /* margin-top: 40px; */
-        width: 37px;
+        width: 55px;
+        height: 55px;
         text-align: center;
     }
     
     .rectangletxt2{
         
-        font-size: 26px;
-        margin-left: 14px;
-        color: black;
-        margin-top: 2px;
-        border: 1px solid black;
+        font-size: 36px;
+        margin-left: 29px;
+        /* color: black; */
+        border: 0px solid black;
+        font-weight: 400;
+        box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+        border-radius: 15px;
+        background-color: white;
+        color: black; 
+        /* margin-top: 40px; */
+        width: 55px;
+        height: 55px;
+        text-align: center;
     }
     
     .rectangletxt3{
     
-        font-size: 26px;
-        margin-left: 19px;
-        color: black;
-        margin-top: 2px;
-        border: 1px solid black;
+        font-size: 36px;
+        margin-left: 29px;
+        /* color: black; */
+        border: 0px solid black;
+        font-weight: 400;
+        box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+        border-radius: 15px;
+        background-color: white;
+        color:black; 
+        /* margin-top: 40px; */
+        width: 55px;
+        height: 55px;
+        text-align: center;
     }
     .text{
       
